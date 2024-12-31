@@ -6,7 +6,7 @@
 
   <groupId>com.amazon</groupId>
   <artifactId>helloworld</artifactId>
-  <version>1.13</version>
+  <version>1.33</version>
   <packaging>jar</packaging>
 
   <name>Hello World</name>
@@ -39,8 +39,8 @@
 </activation>
 <properties>
 <!-- Optional URL to server. Default value is http://localhost:9000 -->
-<sonar.host.url>http://51.20.141.131:9000</sonar.host.url>
-<sonar.login>4af905ec5e844391771b7a64aad87638cd1d09e5</sonar.login>  
+<sonar.host.url>http://13.236.193.45:9000</sonar.host.url>
+<sonar.login>4fba78433bd64a302a5e9b49dae0cd5ed5c74eb0</sonar.login>  
 </properties>
 </profile>
 </profiles>
